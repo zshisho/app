@@ -7,7 +7,8 @@
     "android": "npx expo start --android",
     "ios": "npx expo start --ios",
     "web": "npx expo start --web",
-    "eject": "npx expo eject"
+    "eject": "npx expo eject",
+    "dev": "npx expo start"
   },
   "dependencies": {
     "expo": "~48.0.0",
